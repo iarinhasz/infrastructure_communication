@@ -1,0 +1,6 @@
+.venv/
+.vscode/
+__pycache__
+__notepad.py
+./*/output/
+**/files_*/
